@@ -1,0 +1,15 @@
+{
+    "Records": [
+      {
+        "s3": {
+          "bucket": {
+            "name": "29-12-2024-image"
+          },
+          "object": {
+            "key": "D:/aws-lambda-self/lambda_001/events/test.jpeg"
+          }
+        }
+      }
+    ]
+  }
+  
